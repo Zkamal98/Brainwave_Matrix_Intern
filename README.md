@@ -40,7 +40,7 @@ To explore, analyze, and visualize sales data to provide meaningful business ins
 * Trend Analysis (Sales & Profit over Time)
 * Regional Performance Visualization
 * Customer Segmentation Insights
-* Correlation Heatmaps
+* Correlation 
 
 
 
@@ -61,15 +61,17 @@ To explore, analyze, and visualize sales data to provide meaningful business ins
 4. Run the cells to explore and visualize the data.
 
 
-### 📌 Conclusion
+### 📌 Results
 
-**West and East regions** lead in sales and profit  
-**Chairs and Tables** generate high sales but low profit  
-**Corporate and Consumer segments** dominate revenue  
-**Standard Class shipping** is popular but not always profitable  
-**Sales peak at year-end**, indicating seasonal trends
+Based on the analysis aligned with project objectives:
 
-These insights support more informed decisions in **pricing, logistics, and targeted marketing** to improve profitability.
+* **Top-performing regions**: The **West** and **East** regions consistently generated high sales and profits.
+* **Category insights**: While **Technology** and **Office Supplies** were profitable, **Furniture** (especially Chairs and Tables) had high sales but low or negative profits.
+* **Segment performance**: The **Corporate** and **Consumer** segments contributed the most revenue, while the **Home Office** segment underperformed.
+* **Shipping mode impact**: **Standard Class** was the most used shipping mode but didn't always align with profit efficiency.
+* **Seasonality observed**: Sales spiked toward the end of the year, indicating strong **seasonal demand** patterns.
+
+These results support strategic decisions in **inventory management, pricing optimization, and targeted marketing**.
 
 
 ### 👩‍💻 Author
